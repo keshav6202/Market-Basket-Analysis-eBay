@@ -1,6 +1,4 @@
-# Market-Basket-Analysis-with-Python---eBay
-This project analyzes eBay customer purchasing behavior to uncover product affinities, customer segments, shopping patterns, and recommendation insights. The analysis helps improve personalized recommendations, marketing strategies, and inventory planning using Python-based data analytics techniques.
-# Market Basket Analysis & Customer Behavior Insights - eBay
+# Market-Basket-Analysis-eBay
 
 A comprehensive customer analytics and recommendation project that analyzes eBay customer purchasing behavior, product preferences, browsing patterns, satisfaction levels, and recommendation effectiveness using Python, Machine Learning, and Data Visualization.
 
